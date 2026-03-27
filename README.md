@@ -267,7 +267,7 @@ Feel free to fork this repository and contribute.
 **Manohar P M**
 
 * GitHub: https://github.com/your-username
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: [your-manoharpm6@gmail.com](mailto:your-email@example.com)
 
 ---
 >>>>>>> 6c5de9f3a387157a036c720fa0fdea2d17f7287d
